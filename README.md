@@ -12,3 +12,5 @@ And this line contains a line written on a third computer becuase collaboration 
 I'm just adding stuff at this point
 
 even more stuff
+
+this is good practice though
