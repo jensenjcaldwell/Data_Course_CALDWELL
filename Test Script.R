@@ -15,7 +15,7 @@ grades[3,c(1,3,5)]
 grades$Student[grades$Assignment_1 > 15] #all students with a score >15 on assignment 1
 
 
-mean(grades[3,2:15])
+sum(grades[3,2:15])
 
 # ?list.files
 # ?readLines
