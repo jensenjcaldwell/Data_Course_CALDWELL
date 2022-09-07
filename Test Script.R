@@ -21,3 +21,12 @@ mean(grades[3,2:15])
 # ?readLines
 # ?read.csv
 # ?c
+
+
+x = 32,41,26,22,27,22,17,27,25,25,24,46,54,24,20,25,30,20,20
+
+plot(x, x=frequency(x), y=frequency(x))
+
+frequency(x)
+plot(frequency(x[1-19]))
+     

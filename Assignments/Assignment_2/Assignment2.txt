@@ -13,11 +13,6 @@ head(df, n=5L) #displays first five lines of "Data/wingspan_vs_mass.csv"
 
 list.files(recursive = TRUE, pattern = "^b",full.names = FALSE ) #shows files starting with "b"
 
-#^ <- starts with
-#$ <- ends with
-#* <- 0-inf of whatever comes before
-#* . <- any character
-
 b <- list.files(path="Data",recursive = TRUE, pattern = "^b",full.names = TRUE ) #stores files starting with "b" as "b"
 
 for(i in b) {

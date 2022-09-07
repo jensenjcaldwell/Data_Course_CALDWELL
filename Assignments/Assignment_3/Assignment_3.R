@@ -21,18 +21,25 @@
 # Vectors are 1-dimensional series of values in some order
 1:10 # ':' only works for integers
 letters # built-in pre-made vector of a - z
-
-
+LETTERS # like letters but BIG
+head(LETTERS, n=5)
+tail(LETTERS, n=5)
+LETTERS[15]
+length(LETTERS)
 
 vector1 <- c(1,2,3,4,5,6,7,8,9,10)
+vector1 <- 1:10 # Better way of ^
 vector2 <- c(5,6,7,8,4,3,2,1,3,10)
 vector3 <- letters # letters and LETTERS are built-in vectors
+
+letters[c(1,5)] <- c("a","e") # sets the first and 5th object int the vector "letters" to 1 and 5 respectively
 
 vector1 + 5
 vector2 / 2
 vector1*vector2
 
 vector3 + 1 # can't add 1 to "a"
+class(vector3) # identifies vector type
 
 
 # Logical expressions (pay attention to these...they are used ALL THE TIME)
@@ -41,11 +48,13 @@ vector1 >= 3
 vector1 < 5
 vector1 <= 5
 vector1 == 7
-letters == "a"
-letters != "c"
-letters %in% c("a","b","c","z")
+letters == "a" # == <- 
+letters != "c" #not c
+letters %in% c("a","b","c","z") 
 vector1 %in% 1:6
 
+
+grep
 
 # Data Frames ####
 # R has quite a few built-in data sets
@@ -64,11 +73,13 @@ dat <- iris # can rename the object to be easier to type if you want
 
 # ways to get a peek at our data set
 names(dat)
-dim(dat)
-head(dat)
+dim(dat)  # rows then collumns
+head(dat) #first 6 rows by nefault
+tail(dat,n=1) #last line
 
 
 # You can access specific columns of a "data frame" by name using '$'
+class(dat$Species)
 dat$Species
 dat$Sepal.Length
 
@@ -109,14 +120,16 @@ class(nums) # make sure it's numeric
 as.factor(nums) # show in console
 nums_factor <- as.factor(nums) #assign it to a new object as a factor
 class(nums_factor) # check it
-
+plot(nums_factor)
 
 # convert numeric to character
 as.character(vector1)
 as.character(vector1) + 5
+as.numeric(vector1)
 
 # convert character to numeric
 as.numeric(vector3)
+as.character(vector3)
 
 
 
@@ -157,9 +170,11 @@ dbinom(50,100,.5) # probability of getting exactly 50 heads out of 100 coin flip
 
 seq(2,150,2) # here's the code to get a list of the even numbers between 2 and 150
 
-
+dat[seq(2,150,2),]
 
 # 2.  Create a new object called iris_chr which is a copy of iris, except where every column is a character class
+
+iris_chr <- as.character(iris)
 
 
 
