@@ -74,7 +74,7 @@ dat <- iris # can rename the object to be easier to type if you want
 # ways to get a peek at our data set
 names(dat)
 dim(dat)  # rows then collumns
-head(dat) #first 6 rows by nefault
+head(dat) #first 6 rows by default
 tail(dat,n=1) #last line
 
 
@@ -170,28 +170,33 @@ dbinom(50,100,.5) # probability of getting exactly 50 heads out of 100 coin flip
 
 seq(2,150,2) # here's the code to get a list of the even numbers between 2 and 150
 
-dat[seq(2,150,2),]
+iris[seq(2,150,2),] # finds the data iris on even numbered rows
 
 # 2.  Create a new object called iris_chr which is a copy of iris, except where every column is a character class
 
-iris_chr <- as.character(iris)
+iris_chr <- iris #defines iris_chr as iris
 
+iris_chr <- lapply(iris_chr[,], as.character) # changes each column in the dataframe to character, Thanks stackoverflow!
 
 
 # 3.  Create a new numeric vector object named "Sepal.Area" which is the product of Sepal.Length and Sepal.Width
 
-
+Sepal.Area <- iris$Sepal.Length * iris$Sepal.Width #it does that ^
 
 # 4.  Add Sepal.Area to the iris data frame as a new column
 
-
+iris$Sepal.Area <- Sepal.Area #it once again does that^
 
 # 5.  Create a new dataframe that is a subset of iris using only rows where Sepal.Area is greater than 20 
       # (name it big_area_iris)
 
-
+big_area_iris <- iris # defines big_area_iris
+BigOnes <- big_area_iris$Sepal.Area > 20 #creates vector BigOnes which is all rows of big_area_iris that have an area>20
+big_area_iris <- iris[BigOnes,] # deletes all rows that don't coreespond to a TRUE value in BigOnes
 
 # 6.  Upload the last numbered section of this R script (with all answers filled in and tasks completed) 
       # to canvas
       # I should be able to run your R script and get all the right objects generated
+
+
 
