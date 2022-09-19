@@ -1,0 +1,6 @@
+For my final project idea I would like to really try to go in depth on analizing data for suicide rates. I would like to get as much data on this as possible such as
+geographical location, socioeconomic status, religion, efucation level, other psychological comorbidities. But what I really want ot do is make some nice animated
+plots for all these variables to examine how they have changed over time. I also think this would provbe relevant to my major of Psychology.
+The data for this should be reasonably easy to obtain. A mojority of it ios all in pugblic records the hard part will be pasrsing and cleaning up the data.
+
+The sample plot I made can be found in both the png in this folder as well as the .R file. The graph compares suicide rates for all 50 states in 2005 AND 2020 I was surptised at how much consistency between those two years there was shown by the graph between those two years although it does ssem to show that the rates are rising overall at a rapid pace
