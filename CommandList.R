@@ -3,6 +3,7 @@ list.files()
 read.csv()
 c()
 head()
+str()
 tail()
 beepr::beep()
 length()
@@ -19,8 +20,23 @@ sd()
 min()
 max()
 
+
+mutate()#creating new columns and overwrites existing columns
+
 cor()
 
 summary()
 
-package tidyverse
+|#OR
+&#AND
+
+
+%>% #pipes whatever the value is into the first argument of the next function
+
+#packages
+library(tidyverse)
+library(patchwork)
+library(ggimage)
+library(GGally)
+        ggpairs()#basically makes every possible plot SUPER HELPFUL
+
