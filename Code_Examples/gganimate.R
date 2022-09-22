@@ -1,6 +1,7 @@
 library(tidyverse)
 library(gganimate)
 library(lubridate)
+library(transformr)
 
 
 
@@ -29,6 +30,7 @@ iris_plot +
   
 
 # transition_layers reveals each geom layer sequentially
+
 ordered_class <- mpg %>% 
   group_by(class) %>% 
   summarize(med=median(cty)) %>% 
@@ -76,6 +78,7 @@ mpg %>%
 # Time series animation of CO2 data (Keeling curve)
 data("co2")
 
+
 # convert time-series object to useful data frame
 co2_df <- co2 %>% 
   as.data.frame() %>% 
@@ -86,12 +89,13 @@ co2_df <- co2 %>%
   select(-x)
 co2_df %>% glimpse
 
+?transition_time
 
 # transition_time() takes a "date/time" class variable
 co2_df %>% 
   ggplot(aes(x=date,y=ppm)) +
   geom_line() +
-  transition_time(date) +
+  transition_time(yearr) +
   labs(title = "{frame_time}")
 
 # transition_reveal() works similar to transition_time() but leaves previously shown data

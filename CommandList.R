@@ -21,6 +21,12 @@ min()
 max()
 
 
+#DPLYR
+filter() #rows
+select() #columns
+mutate() #column manipulation
+
+
 mutate()#creating new columns and overwrites existing columns
 
 cor()
