@@ -57,7 +57,7 @@ attach(df)
 df <- df[order(Last_Update, decreasing = FALSE),] #sorts in ascending order
 
 
-df %>%  
+df %>%  # plots cumulative for entire US
   mutate(
     total_deaths = cumsum(Deaths)
   ) %>% 
@@ -65,6 +65,7 @@ df %>%
   ggplot(aes(x=Last_Update,
          y=total_deaths))+
   geom_smooth(se=FALSE)
+  
 
 
 
