@@ -66,6 +66,7 @@ df %>%  # plots cumulative for entire US
          y=total_deaths))+
   geom_smooth(se=FALSE)
   
+  
 
 
 
