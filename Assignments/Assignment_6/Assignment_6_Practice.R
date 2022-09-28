@@ -20,18 +20,17 @@ df2 <- read_xlsx("./Data/wide_data_example.xlsx")
 
 df2 %>% 
   mutate(`Treatment 1` = `Treatment 1` %>% as.numeric()) %>% 
-  pivot_longer(cols = starts_with("Treatment"), names_to = "Treatment", values_to = "Weight") %>% 
+  pivot_longer(cols = starts_with("Treatment"), names_to = "Treatment", values_to = "Weight") %>%
   ggplot(aes(x=SampleID,
-             y=Weight))+
-  geom_point()
+             y=Weight,
+             color=Treatment
+             ))+
+  geom_point()+
+  scale_fill_viridis_d("C")
 
 
  df %>% 
-  pivot_longer(cols = -variable, names_to = "State") %>% 
-   pivot_wider(names_from = variable) %>% 
-   ggplot(aes(x=State, y=rent, color = income))+
-   geom_point()+
-   scale_color_viridis_b()+
-   theme(axis.text.x = element_text(angle=90,vjust = .5))
+  pivot_longer(cols = -variable, names_to = "State") %>% #Turns the state column names into entries into a new column named "State"
+   pivot_wider(names_from = variable) 
 
                
