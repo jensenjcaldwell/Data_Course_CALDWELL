@@ -1,5 +1,6 @@
 library(tidyverse)
 library(GGally)
+library(gganimate)
 dat <- read_csv("../../Data/BioLog_Plate_Data.csv")
 
 names(dat)
@@ -29,14 +30,34 @@ group_by(Well) %>%
   labs(title = "Just dilution 0.1")
 
 
+
+
+
+
+#
+
+
+
 dat %>% 
-  pivot_longer(cols = starts_with("HR"), names_to = "Time") %>% 
   filter(Substrate == "Itaconic Acid") %>% 
+  pivot_longer(cols = starts_with("HR"), names_to = "time") %>% 
+  pivot_wider(names_from = Rep, values_from = value) %>% 
+  mutate(mean_absorbance = (`1`+`2`+`3`)/3) %>% 
+   #view()
+  group_by(Well) %>% 
+  summarize(Substrate = Substrate,
+            `Sample ID` = `Sample ID`,
+            Time = as.numeric(gsub("Hr_","",time)),
+            Dilution = Dilution,
+            mean_absorbance=mean_absorbance
+            
+            
+  ) %>% 
   ggplot(
     aes(x=Time,
-        y=Dilution,
+        y=mean_absorbance,
         color = `Sample ID`))+
-  geom_smooth(se = FALSE)+
+  geom_line()+
   facet_wrap(~Dilution)+
-  theme_minimal()
-
+  theme_minimal()+
+  transition_reveal(Time)
