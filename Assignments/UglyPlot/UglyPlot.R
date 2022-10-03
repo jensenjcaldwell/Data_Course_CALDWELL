@@ -2,7 +2,15 @@ library(tidyverse)
 library(ggimage)
 library(jpeg)
 library(ggpubr)
+library(showtext)
+library(extrafont)
+remotes::install_version("Rttf2pt1", version = "1.3.8")
+font_import(path = "Media", recursive = TRUE)
+loadfonts(device = "win", quiet = "FALSE")
+windowsFonts()
+font_add_google("Gochi Hand", "gochi")
 
+font_install()
 
 df <- read.csv("Data/president_heights.csv")
 df$Name <- factor(df$Name,levels=df$Name)
@@ -26,7 +34,7 @@ df %>%
   theme(
     
     plot.background = element_rect(fill = "black"),
-    plot.title = element_text(size = 15, hjust = 0.25, colour="yellow",angle = 2),
+    plot.title = element_text(size = 15, hjust = 0.25, colour="yellow",angle = 2, family = "hand"),
     panel.background = element_rect(fill = 'navy', colour = 'navy', size = 4),
     panel.border = element_rect(fill = NA, color = "green", size = 2),
     panel.grid.major.x = element_line(color = "purple", linetype = 2),
@@ -38,9 +46,9 @@ df %>%
     axis.text.x.bottom = element_text(angle = 187), 
     legend.background = element_rect(fill = "orangered1"),
     legend.key = element_rect(fill = "orangered1",linetype = "123234"),
-    legend.direction = "vertical",
+    legend.direction = "horizontal",
     legend.position = "top",
-    legend.justification = "left",
+    legend.justification = "bottom",
     legend.title = element_text(family = "serif", color = "orange"),
     legend.text = element_text(family = "mono", face = "italic", colour = "orangered3", angle = 1),
     

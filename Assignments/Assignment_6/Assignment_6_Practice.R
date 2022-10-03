@@ -33,4 +33,85 @@ df2 %>%
   pivot_longer(cols = -variable, names_to = "State") %>% #Turns the state column names into entries into a new column named "State"
    pivot_wider(names_from = variable) 
 
-               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+table1
+
+table2 %>% pivot_wider(names_from = type, values_from = count)
+
+
+table4a %>% view()
+table4b %>% view()
+
+
+table4a %>% pivot_longer(names_to = "year", values_to = "cases", cols = -country)
+
+table4b %>% 
+  pivot_longer(names_to = "year", values_to = "population", cols=-country)
+  
+
+full_join(table4a %>% pivot_longer(names_to = "year", values_to = "cases", cols = -country),
+          table4b %>% 
+            pivot_longer(names_to = "year", values_to = "population", cols=-country))
+
+
+
+#
+
+
+library(carData)
+
+MplsStops %>% view()
+
+MplsDemo %>% view()
+
+
+MplsStops %>% ggplot(
+  aes(
+    x=long,
+    y=lat,
+    color=race))+
+  geom_density_2d()
+  
+
+MplsStops$citationIssued
+
+full <- full_join(MplsStops,MplsDemo)
+
+
+names(full)
+
+
+
+full %>% 
+  group_by(neighborhood) %>% 
+  summarize(N=n(),
+            N_per_pop = N / population,
+            white=white,
+            black=black,
+            foreignBorn=foreignBorn,
+            hhIncome=hhIncome) %>% 
+  unique.data.frame() %>% 
+  arrange(desc(N_per_pop)) %>% 
+  ungroup() %>% 
+  ggplot(aes(
+    x=hhIncome,
+    y=N_per_pop,
+    label=neighborhood))+
+  geom_point()+
+  geom_smooth(method = "lm")
+  

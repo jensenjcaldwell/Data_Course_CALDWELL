@@ -21,10 +21,13 @@ min()
 max()
 
 
+
+
 #DPLYR
 filter() #rows
 select() #columns
 mutate() #column manipulation
+case_when()
 
 
 mutate()#creating new columns and overwrites existing columns
