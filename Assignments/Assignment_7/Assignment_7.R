@@ -57,59 +57,6 @@ df %>%
   facet_wrap(~religion, scales = "free")
   theme(
     axis.text.x = element_text(angle=90)
-  ) #This graph
-
-
-df %>% ggplot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-airlines <- read_csv("airlines.csv")
-airport <-  read_csv("airports.csv")
-flights <- read_csv("jan_flights.csv")
-snow <- read_csv("Jan_snowfall.csv")
-
-States <- 
-  airport %>% 
-  mutate(iata = IATA_CODE) %>% 
-    select(iata,STATE)
-
-
-flights$Date <- as.Date(with(flights,paste(YEAR,MONTH,DAY,sep = "-")),"%Y-%m-%d")
-
-glimpse(flights)
-
-flights <- 
-flights %>% 
-  select(AIRLINE,ORIGIN_AIRPORT,DEPARTURE_DELAY,Date) %>% 
-  full_join(snow)
+  ) #This graph compare the amount of non-religious people per county to the population of said county that is of a given religion
 
 
