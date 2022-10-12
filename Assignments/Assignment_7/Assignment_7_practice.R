@@ -1,6 +1,7 @@
 library(tidyverse)
 library(carData)
 library(readxl)
+library(janitor)
 
 
 df <- full_join(MplsStops,MplsDemo)
@@ -98,3 +99,90 @@ df <- read_xlsx("../../Data/messy_bp.xlsx")
 df %>% 
   setNames(c("pat_id","month","BP1","HR1","BP2","HR2","BP3","HR4"))
   
+
+
+
+
+
+#
+
+
+
+
+lds <- read_csv("../../Data/LDSByState.csv")
+rates <- read_csv("../../Data/SuicideByState.csv")
+states <- read_csv("../../Data/USStates.csv")
+
+r2020 <- 
+  rates %>% 
+  filter(YEAR == 2015) %>% 
+  mutate(Code = STATE)
+
+lds <- full_join(lds,states) 
+
+data <- full_join(lds,r2020)
+
+
+data %>% 
+  ggplot(
+    aes(x=mormonRate,
+        y=RATE))+
+      geom_point()+
+      geom_smooth(method = "lm")
+  )
+
+
+cor.test(x = data$mormonRate,y = data$RATE)
+
+
+#
+
+
+
+
+df <- read_xlsx("../../Data/messy_bp.xlsx",skip = 3) %>% clean_names()
+
+
+#gets list of visits
+extranames <- read_xlsx("../../Data/messy_bp.xlsx", skip = 2, n_max = 1) %>% 
+  select(starts_with("visit ")) %>% 
+  names() %>% make_clean_names()
+
+bp <- df %>% #Blood pressur to dataframe
+  select(starts_with("bp_"))
+hr <- df %>% #Heart rate to dataframe
+  select(starts_with("hr_"))
+pat <- df %>% #patient data to dataframe
+  select(-starts_with("bp_")) %>% 
+  select(-starts_with("hr_"))
+
+paste0(pat$year_birth,"-",pat$month_of_birth,"-",pat$day_birth) %>% as.Date()
+           
+pat <- pat %>% 
+  mutate(birthdate = as.Date(paste0(pat$year_birth,"-",pat$month_of_birth,"-",pat$day_birth))) %>% 
+  select(-contains("_birth")) %>% 
+  mutate(pat_id = 1:nrow(.)) %>% 
+  mutate(hispanic = case_when(hispanic == "Hispanic" ~ TRUE,
+                              TRUE ~ FALSE)) %>% 
+  mutate(race = race %>% str_to_lower() %>% 
+           str_replace("caucasian","white"),
+         sex=sex %>% str_to_lower())
+
+#renaming columns
+names(bp) <- extranames
+names (hr) <- extranames
+
+bp <- 
+pat %>% bind_cols(bp) %>% pivot_longer(starts_with("visit_"),names_to = "visit", values_to = "bp") %>% 
+  separate(bp, into = c("systolic", "diastolic"), convert = TRUE)
+
+hr <- 
+  pat %>% bind_cols(hr) %>% pivot_longer(starts_with("visit_"),names_to = "visit", values_to = "hr")
+
+df <- full_join(bp,hr) %>% 
+  mutate(visit = visit %>% str_remove("visit_") %>% as.numeric())
+
+saveRDS(df,"../../Data/CleanBP.RDS")
+
+write_csv(df,file = "../../Data/CleanBP.csv")
+

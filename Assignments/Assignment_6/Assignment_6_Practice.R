@@ -15,6 +15,7 @@ df <- read_csv("./Data/wide_income_rent.csv")
 #wide format means that some variables are spread across multiple columns
 #rows and columns are essentially swapped
 
+
 df2 <- read_xlsx("./Data/wide_data_example.xlsx")
 
 
