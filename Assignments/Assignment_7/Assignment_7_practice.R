@@ -36,8 +36,6 @@ df_sum %>%
 
 
 
-
-
 levels(df$problem)
 levels(df$citationIssued)
 levels(df$personSearch)
