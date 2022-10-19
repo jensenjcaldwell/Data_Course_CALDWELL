@@ -70,7 +70,7 @@ mod4 <-
 step <- MASS::stepAIC(mod4)
 
 step$formula
-
+ 
 summary(mod4)
 
 mod5 <- glm(data = penguins %>% filter(!is.na(sex)),
