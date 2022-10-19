@@ -1,5 +1,7 @@
 library(tidyverse)
 library(janitor)
+library(easystats)
+library(palmerpenguins)
 
 list("a",2,TRUE,c(1,2,3))
 
@@ -85,3 +87,15 @@ library(modelr)
 
 add_predictions(mpg,mod1) %>% 
   mutate(difference=abs(pred-cty)) %>% view()
+
+
+
+
+
+df <- readRDS("../../Data/Lehi_Home_Sales.RDS")
+
+df %>% ggplot(aes(x=acreage, y=rl_value))+
+  geom_smooth()
+
+max(df$rl_value)
+
