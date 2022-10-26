@@ -99,3 +99,5 @@ df %>% ggplot(aes(x=acreage, y=rl_value))+
 
 max(df$rl_value)
 
+
+
