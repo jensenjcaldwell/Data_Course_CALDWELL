@@ -23,6 +23,8 @@ mod3 <- glm(data = sim3,
 
 compare_performance(mod1,mod2,mod3,rank = TRUE)
 
+?compare_performance
+
 add_predictions(sim3,mod2) %>% 
   ggplot(aes(x=x1,y=pred))+
   geom_point()

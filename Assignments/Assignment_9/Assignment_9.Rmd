@@ -5,40 +5,80 @@ html_document:
 pagetitle: Assignment_9
 ---
 
-
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, error = FALSE)
+library(tidyverse)
+library(kableExtra)
+theme_set(theme_bw())
+
+df <- read_csv("../../Data/GradSchool_Admissions.csv")
+df$admit <- as.logical(df$admit)
+
+
 ```
 
-# **Assignment 9**
+# Assignment 9 
+## We will be examining some data about grad school admissions
+<br><br>
 
-In this assignment, you will use R (within R-Studio) to:
+First, let's take a look at the data, the admit column shows whether the application was accepted, the gre and gpa columns show the applicant's GRE and GPA respectively and the rank refers to how their undergraduate school was ranked (1 being the best).
+
+```{r}
+df %>% 
+  head(10) %>% 
+  kable() %>% 
+  kable_classic(lightable_options = 'hover')
   
-+ Load and clean a real data set
-+ Conduct exploratory analyses, including informative figures
-+ Build and test appropriate models
-+ Draw conclusions about your data
-+ Combine all of the above into a well-documented R-Markdown report and export (knit) it into an HTML file
-
-**All file paths should be relative, starting from *your* Assignment_9 directory!!**
-
-**This means that you need to create a new R-Project named "Assignment_9.Rproj" in your Assignment_9 directory, and work from scripts within that.**
 
 
-## **For credit...**
+```
+<br>
+This table just shows the first few rows, there are 400 in total, here is a plot that shows the whole dataset:
+<br>
+```{r}
+df %>% 
+  pivot_longer(cols = -admit, names_to = "factor", values_to = "score") %>% 
+  ggplot(aes(x=admit,y=score, fill = admit))+
+  geom_violin()+
+  facet_wrap(~factor, scales = "free")
 
-1.  Push a completed version of your Rproj and R-markdown file (details at end of this assignment) to GitHub
-2.  Your score will also depend on your analyses and presentation of your final report
+```
+<br>
+Not surprisingly it looks like higher rankings, GRE scores, and GPAs appear to be positively correlated with acceptance.
+<br>
+now, lets make a statistical model to predict acceptance based on these factors and their interactions. Here is a comparison of several different models I made.
+<br>
+```{r}
+mod1 <- glm(data = df, formula = admit ~ gre + gpa + rank, family = "binomial")
+mod2 <- glm(data = df, formula = admit ~ gre + gpa * rank, family = "binomial")
+mod3 <- glm(data = df, formula = admit ~ gre * gpa + rank, family = "binomial")
+mod4 <- glm(data = df, formula = admit ~ gre * gpa * rank, family = "binomial")
 
-____________
 
-# Your tasks:
 
-+ Use the data set "/Data/GradSchool_Admissions.csv"
-+ You will explore and model the predictors of graduate school admission
-  - the "admit" column is coded as 1=success and 0=failure (that's binary, so model appropriately)
-  - the other columns are the GRE score, the GPA, and the rank of the undergraduate institution, where I is "top-tier."
-+ Document your data explorations, figures, and conclusions in a reproducible R-markdown report
-+ That means I want to see, in your html report, your process of model evaluation and selection. Here's an [example](https://gzahn.github.io/data-course/Repository/Assignments/Assignment_9/example.html){target="_blank"}
-+ Upload your **self-contained** R project, including knitted HTML report, to GitHub in *your* Assignment_9 directory
+
+performance::compare_performance(mod1,mod2,mod3,mod4) %>% kable() %>% kable_classic(lightable_options = "hover")
+
+performance::compare_performance(mod1,mod2,mod3,mod4) %>% plot()
+```
+It appears model 4 (acceptance as a function of GRE GPA and rank along with the interactions of each of these variables) has the most predictive power, it is more complicated than the other models but I think that the predictive power is worth it.
+
+lets add these predictions to the actual data set
+
+```{r}
+preds <- modelr::add_predictions(data = df, model = mod4, type = "response") %>% 
+  mutate(correct = case_when(pred < .5 ~ TRUE,
+                             TRUE ~ FALSE)) 
+  ggplot(preds,aes(x=correct,fill=correct))+
+  geom_bar()+
+  scale_color_viridis_d(c("red","green"))
+
+```
+
+It looks like it was able to predict a significant number of the results correctly,
+in fact it predicted correctly at a rate of `r sum(preds$correct)/length(preds$correct)`, which is pretty reliable.<br><br>
+
+##Conclusion
+<br>
+Overall GPA, GRE score, and school ranking play roles in how likely an individual is to get accepted into graduate school. 
 

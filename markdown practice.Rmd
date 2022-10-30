@@ -1,0 +1,64 @@
+---
+title: "Untitled"
+output: html_document
+date: "2022-10-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+
+
+```
+
+
+For this first document, we will look at the `mpg` dataset included with the *tidyverse* package
+
+Here's a glimpse of the dataset
+
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+theme_set(theme_bw())
+
+mpg %>% skimr::skim()
+```
+
+
+##Plots
+
+```{r, fig.height=4,fig.width=4,fig.cap="cars with higher displacement have lower fuel efficiency"}
+p <- mpg %>% ggplot(aes(x=displ,
+                   y=hwy,
+                   color = factor(cyl)))+
+  geom_point()+
+  geom_smooth(method = "lm")+
+  labs(color="# of cylinders", y="Highway Mpg", x="Engine Displacement (L)")
+
+plotly::ggplotly
+```
+##Models
+
+```{r}
+mod1 <- glm(data = mpg,
+            formula = hwy ~ displ * cyl)
+
+form <- as.character(mod1)
+```
+
+Our model formula is: `r print(form)`
+
+
+```{r}
+broom::tidy(mod1) %>% 
+  kable() %>% 
+  kable_classic(lightable_options = 'hover')
+```
+
+to learn more about this exciting dataset follow [this link](https://ggplot2.tidyverse.org/reference/mpg.html)
+
+
+```{r fig.align='center',fig.alt='a photo of a car'}
+knitr::include_graphics("./Media/retro3.jpg")
+```
