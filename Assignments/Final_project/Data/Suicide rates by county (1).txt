@@ -1,0 +1,31 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"Beaver County, UT"	"49001"	1317	139758	942.3
+	"Box Elder County, UT"	"49003"	7434	1077843	689.7
+	"Cache County, UT"	"49005"	10719	2419907	443.0
+	"Carbon County, UT"	"49007"	4679	451734	1035.8
+	"Daggett County, UT"	"49009"	154	22193	693.9
+	"Davis County, UT"	"49011"	32500	6599322	492.5
+	"Duchesne County, UT"	"49013"	2802	390833	716.9
+	"Emery County, UT"	"49015"	1938	232130	834.9
+	"Garfield County, UT"	"49017"	981	107848	909.6
+	"Grand County, UT"	"49019"	1680	199966	840.1
+	"Iron County, UT"	"49021"	5802	973462	596.0
+	"Juab County, UT"	"49023"	1531	218854	699.6
+	"Kane County, UT"	"49025"	1477	151783	973.1
+	"Millard County, UT"	"49027"	2301	274555	838.1
+	"Morgan County, UT"	"49029"	1053	208538	504.9
+	"Piute County, UT"	"49031"	369	32219	1145.3
+	"Rich County, UT"	"49033"	319	48383	659.3
+	"Salt Lake County, UT"	"49035"	129560	22549024	574.6
+	"San Juan County, UT"	"49037"	2101	322395	651.7
+	"Sanpete County, UT"	"49039"	4004	591837	676.5
+	"Sevier County, UT"	"49041"	4115	447678	919.2
+	"Summit County, UT"	"49043"	2792	797931	349.9
+	"Tooele County, UT"	"49045"	6636	1241071	534.7
+	"Uintah County, UT"	"49047"	4658	695636	669.6
+	"Utah County, UT"	"49049"	45491	11060257	411.3
+	"Wasatch County, UT"	"49051"	2514	527467	476.6
+	"Washington County, UT"	"49053"	23087	2977313	775.4
+	"Wayne County, UT"	"49055"	525	58340	899.9
+	"Weber County, UT"	"49057"	34593	5002122	691.6
+"Total"			337132	59820399	563.6

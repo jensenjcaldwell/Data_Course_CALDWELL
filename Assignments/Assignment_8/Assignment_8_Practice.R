@@ -2,6 +2,7 @@ library(tidyverse)
 library(janitor)
 library(easystats)
 library(palmerpenguins)
+library(broom)
 
 list("a",2,TRUE,c(1,2,3))
 
@@ -98,6 +99,66 @@ df %>% ggplot(aes(x=acreage, y=rl_value))+
   geom_smooth()
 
 max(df$rl_value)
+
+read_clean <- function(x){
+x %>% 
+read_csv() %>% janitor::clean_names() %>% 
+  mutate(species = str_replace(species,"P.","P. "))
+}
+
+
+read_clean("./Data/mushroom_growth.csv")
+?map()
+?reduce()
+
+
+df <- data.frame(d50 = c(0,1,3,1,0), d70 = c(1,2,2,0,0), d90 = c(4,3,6,3,4))
+df <- df %>% pivot_longer(cols = starts_with("d"), names_to = "group", values_to = "score") 
+
+aov.df <- aov(formula = score ~ group,data = df) 
+
+aov.df %>% effectsize::effectsize()
+
+aov.df %>% summary()
+
+aov.df %>% tidy()
+
+aov.df %>% report()
+
+TukeyHSD(aov.df) %>% tidy()
+
+eta_squared(aov.df)
+
+aov.df %>% report()
+
+TukeyHSD(aov.df) %>% tidy()
+
+?aov()
+
+
+df %>% ggplot(aes(x=group, y=score))+
+  geom_violin(fill="lightblue")+
+  theme_minimal()+
+  labs(y="# Of Errors", x="Temperature (F)")
+
+
+effectsize::eta_squared(df)
+
+
+ssdf <- data.frame()
+
+
+dd <- read_delim("./Data/DatasaurusDozen.tsv")
+
+dd <- dd %>% 
+  group_by(dataset) %>% 
+  mutate("mean_x"= mean(x), "mean_y"=mean(y))
+
+  
+ggplot(data=dd,aes(x=x,y=y))+
+  geom_point()+
+  facet_wrap(~dataset)
+  
 
 
 

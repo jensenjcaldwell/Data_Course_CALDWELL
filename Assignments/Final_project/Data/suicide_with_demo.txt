@@ -1,0 +1,924 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Weekday"	"Weekday Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	36	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	41	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	36	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	30	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	139	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	161	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	126	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	30	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	135	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	132	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	128	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	27	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	116	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	66	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	60	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	61	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	16	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	57	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	63	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	59	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	52	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	52	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	50	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	42	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	52	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	221	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	214	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	207	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	252	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	201	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	212	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	186	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	56	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	57	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	60	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	53	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	79	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	49	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	260	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	40	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	301	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	274	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	277	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	278	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	308	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	251	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	250	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	107	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	85	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1575	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	313	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	117	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	103	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1939	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	263	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	109	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	87	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1872	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	286	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	99	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	95	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1789	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	246	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	115	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	86	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1673	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	288	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	102	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	91	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1705	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	292	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	104	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	96	Not Applicable	Not Applicable
+	"California"	"06"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	1510	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	47	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	65	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	70	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	50	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	48	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	42	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	294	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	377	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	336	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	333	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	349	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	337	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	39	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	282	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	144	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	184	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	177	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	147	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	150	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	166	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	149	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	60	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	668	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	57	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	822	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	49	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	54	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	767	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	54	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	53	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	761	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	54	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	715	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	61	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	737	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	54	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	637	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	54	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	69	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	44	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	66	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	64	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	70	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	204	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	85	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	270	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	70	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	253	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	12	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	82	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	242	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	87	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	213	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	11	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	78	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	225	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	57	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	202	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	47	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	46	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	36	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	47	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	37	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	36	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	225	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	232	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	215	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	202	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	216	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	206	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	220	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	151	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	192	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	161	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	161	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	144	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	160	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	124	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	39	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	37	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	150	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	193	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	184	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	29	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	155	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	158	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	27	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	148	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	135	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	37	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	37	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	178	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	249	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	239	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	197	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	219	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	198	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	198	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	76	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	78	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	56	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	77	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	74	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	65	Not Applicable	Not Applicable
+	"Kansas"	"20"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	49	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	124	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	145	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	144	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	134	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	111	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	129	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	110	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Maine"	"23"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	151	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	162	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	168	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	140	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	144	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	141	Not Applicable	Not Applicable
+	"Maine"	"23"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	125	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	175	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	191	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	162	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	161	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	200	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	166	Not Applicable	Not Applicable
+	"Michigan"	"26"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	149	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	137	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	181	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	168	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	152	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	159	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	151	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	133	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	57	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	40	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	195	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	188	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	174	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	150	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	163	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	158	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	129	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	90	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	116	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	95	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	86	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	79	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	81	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	78	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	45	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	482	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	38	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	546	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	34	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	487	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	36	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	468	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	442	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	33	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	487	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	29	Not Applicable	Not Applicable
+	"Missouri"	"29"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	429	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	65	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	87	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	83	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	93	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	75	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	80	Not Applicable	Not Applicable
+	"Montana"	"30"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	92	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	112	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	138	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	143	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	139	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	126	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	117	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Nevada"	"32"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	109	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	99	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	87	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	115	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	107	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	73	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	91	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	80	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	40	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	88	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	157	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	75	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	202	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	94	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	197	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	85	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	181	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	72	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	222	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	69	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	156	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	84	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	162	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	44	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	41	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"New York"	"36"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	48	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	46	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	157	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	171	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	27	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	182	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	157	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	155	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	155	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	153	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	67	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	57	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	45	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	46	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	45	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	39	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	49	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	40	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	42	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	182	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	15	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	227	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	214	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	190	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	197	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	174	Not Applicable	Not Applicable
+	"Ohio"	"39"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	164	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	103	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	99	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	11	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	108	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	96	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	97	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	113	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	71	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	35	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	402	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	23	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	21	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	500	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	32	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	32	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	424	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	43	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	32	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	433	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	32	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	30	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	442	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	36	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	403	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	43	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	386	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	108	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	134	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	130	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	101	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	118	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	114	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	97	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	566	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	646	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	635	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	570	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	570	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	600	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	577	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	41	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	39	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	207	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	238	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	211	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	196	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	185	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	192	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	179	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	54	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	56	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	60	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	57	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	54	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	49	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	91	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	120	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	96	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	75	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	87	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	85	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	64	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	96	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	110	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	115	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	127	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	98	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	94	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	74	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	86	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	82	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	92	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	79	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	86	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	80	Not Applicable	Not Applicable
+	"Texas"	"48"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	77	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	78	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	346	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	70	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	17	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	447	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	56	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	421	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	62	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	30	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	406	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	65	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	382	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	65	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	371	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	53	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Texas"	"48"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	346	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	62	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	69	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	59	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	53	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	59	Not Applicable	Not Applicable
+	"Utah"	"49"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	329	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	362	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	332	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	328	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	301	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	323	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	317	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	64	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	71	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	68	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	78	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	63	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	63	Not Applicable	Not Applicable
+	"Vermont"	"50"	"Male"	"M"	"Unknown"	"9"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	65	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	115	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	111	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	114	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	102	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	93	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	113	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	106	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	69	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	503	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	10	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	74	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	565	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	74	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	514	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	70	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	466	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	81	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	483	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	14	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	75	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	430	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	86	Not Applicable	Not Applicable
+	"Virginia"	"51"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	442	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	128	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	143	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	145	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	130	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	130	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	129	Not Applicable	Not Applicable
+	"Washington"	"53"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	108	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	11	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	22	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	21	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	695	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	29	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	759	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Tuesday"	"3"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	19	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	721	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	23	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	723	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Thursday"	"5"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	11	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	23	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	695	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	15	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	25	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	697	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Saturday"	"7"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	12	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	17	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Washington"	"53"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	662	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	144	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	171	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	169	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	140	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	136	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	141	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	139	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	83	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	79	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	85	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	74	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	77	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	71	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	59	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Sunday"	"1"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	503	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Monday"	"2"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	561	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	518	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Wednesday"	"4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	30	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	518	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	478	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Friday"	"6"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	468	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	458	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Female"	"F"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Sunday"	"1"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	67	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Monday"	"2"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	87	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Tuesday"	"3"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	72	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Wednesday"	"4"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	73	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Thursday"	"5"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	67	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Friday"	"6"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	67	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"Male"	"M"	"Saturday"	"7"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	68	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Suicide rates by county"
+"ICD-10 Codes: X72 (Intentional self-harm by handgun discharge)"
+"Group By: State; Gender; Weekday; Hispanic Origin; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 19, 2022 11:16:12 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 19, 2022 11:16:12 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"4. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"5. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"6. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"7. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"8. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"9. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
