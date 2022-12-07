@@ -1,0 +1,13 @@
+name: suicidetracker
+title: suicidetracker
+username:
+account: jensenjcaldwell
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7840751
+bundleId: 6606692
+url: https://jensenjcaldwell.shinyapps.io/suicidetracker/
+when: 1670443583.35538
+lastSyncTime: 1670443583.3554
+asMultiple: FALSE
+asStatic: FALSE

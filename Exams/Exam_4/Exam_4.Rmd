@@ -1,0 +1,105 @@
+---
+title: "Final Exam"
+output: html_document
+date: "2022-12-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+library(janitor)
+library(broom)
+library(easystats)
+
+
+```
+
+## FINAL EXAM (Redo of exam 3)
+
+
+Let's take a look at the data and clean it up this is kind of boring so I'll just go ahead and do it all in one go. 
+<br><br>
+
+Here is a plot of the data comparing school rating, professor rank and salary.
+
+
+
+```{r cars}
+
+
+df <- read_csv("FacultySalaries_1995.csv") %>% janitor::clean_names()
+df2 <- df
+df3 <- df
+
+df <- df %>% pivot_longer(cols = contains("salary"), names_to = "rank", values_to = "avg_salary") %>% 
+  mutate(rank = str_remove(str_remove(str_remove(rank,"prof_salary_"),"avg_"),"_prof_salary")) %>% select(fed_id,univ_name,state,tier,rank,avg_salary)
+
+df2 <- df2 %>% pivot_longer(cols = contains("comp"), names_to = "rank", values_to = "avg_comp") %>% 
+  mutate(rank = str_remove(str_remove(str_remove(rank,"prof_comp_"),"avg_"),"_prof_comp")) %>% select(rank,avg_comp,fed_id)
+
+df3 <- df3 %>% pivot_longer(cols = contains("num"), names_to = "rank", values_to = "num") %>% 
+  mutate(rank = str_remove(str_remove(str_remove(rank,"num_"),"_profs"),"faculty_")) %>% select(rank,num,fed_id)
+
+
+df_c <- full_join(df,full_join(df2,df3))
+
+# all tidy, it's so BEAUTIFUL
+
+df_c %>% 
+  filter(tier != "VIIB", rank!="all") %>% 
+  group_by(tier) %>% 
+  ggplot(aes(y=avg_salary,fill = rank))+
+  geom_boxplot()+
+  facet_wrap(~tier)+
+  theme_minimal()
+
+```
+
+
+Now let's take a look at the ANOVA between state, tier, and rank and how they affect salary.
+
+```{r pressure, echo=FALSE}
+aov <- df_c %>% aov(data=.,formula = avg_salary ~ state + tier + rank)
+
+tidy(aov)
+
+tidy(aov) %>% write.table(file = "Salary_ANOVA_Summary.txt")
+```
+
+
+## Dataset 2
+
+
+Now, lets take a look at the second data set, I'll go ahead and clean it and make a graph.
+
+
+```{r}
+#Step 3: more cleaning 
+
+
+jo <- read_csv("Juniper_Oils.csv")
+
+chem <- c("alpha-pinene","para-cymene","alpha-terpineol","cedr-9-ene","alpha-cedrene","beta-cedrene","cis-thujopsene","alpha-himachalene","beta-chamigrene","cuparene","compound 1","alpha-chamigrene","widdrol","cedrol","beta-acorenol","alpha-acorenol","gamma-eudesmol","beta-eudesmol","alpha-eudesmol","cedr-8-en-13-ol","cedr-8-en-15-ol","compound 2","thujopsenal")
+
+jo <- jo %>% pivot_longer(cols = chem, names_to = "compound", values_to = "concentration")
+
+#step 4: plotting
+
+jo %>% ggplot(aes(x= YearsSinceBurn, y=concentration))+
+  geom_smooth()+
+  facet_wrap(~compound, scales = "free")
+```
+
+
+Here I took a general linear model of how time, the specific compound and their interaction affects the concentration. In the following table you can see a table that shows the values for any that were statistically significant at p<0.05
+
+```{r}
+#Step 5: GLM
+
+jo2 <- jo %>% select(compound,concentration,YearsSinceBurn) %>% 
+glm(data = ., formula = concentration ~ YearsSinceBurn * compound) %>% tidy()
+
+kableExtra::kbl(jo2 %>% filter(p.value < .05) %>% mutate(term = str_remove(term,pattern = "compound"))) %>% kableExtra::kable_paper("hover")
+```
+

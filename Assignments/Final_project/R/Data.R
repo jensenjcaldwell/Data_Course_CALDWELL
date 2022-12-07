@@ -20,4 +20,4 @@ master <- master %>% group_by(single_year_ages_code) %>% mutate("deaths_by_age" 
 
 master <- master %>% group_by(gender_code) %>% mutate("deaths_by_gender" = sum(deaths))
 
-
+shinyuieditor::launch_editor(app_loc = "app/")
